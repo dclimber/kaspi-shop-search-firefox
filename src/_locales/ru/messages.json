@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Искать в Каспи Магазине",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Выделите текст → нажмите правую кнопку мыши → ищите в Каспи Магазине.",
+    "description": "Description of the extension."
+  },
+
+  "contextTitle": {
+    "message": "Искать в Каспи Магазине:",
+    "description": "Title of the context menu item."
+  }
+}

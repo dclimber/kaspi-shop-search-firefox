@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Search on Kaspi.Shop",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Highlight a text → right click → search on Kaspi.Shop.",
+    "description": "Description of the extension."
+  },
+
+  "contextTitle": {
+    "message": "Search Kaspi.Shop for",
+    "description": "Title of the context menu item."
+  }
+}
